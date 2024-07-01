@@ -9,7 +9,7 @@ This application uses the `node` container image obtained from [Docker Hub](http
 
 ## Setup
 
-Clone this repo and cd into the directory:
+Please Clone this repo and cd into the directory:
 
 ```
 git clone https://github.com/devtron-labs/getting-started-nodejs
